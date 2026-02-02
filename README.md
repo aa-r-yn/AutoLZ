@@ -29,16 +29,25 @@ This project was completed by Aryan and team.
 
 ## Repository Structure
 
-AutoLZ/
-↳training/
-↳inference/
-↳gui/
-↳data/
-   ↳ sample_images/
-↳results/
-↳ docs/
-↳ assets/
+AutoLZ
+
+↳training
+
+↳inference
+
+↳gui
+
+↳data
+    ↳ sample_images
+   
+↳results
+
+↳ docs
+
+↳ assets
+
 ↳ requirements.txt
+
 ↳ README.md
 
 ---
